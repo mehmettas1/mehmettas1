@@ -9,7 +9,7 @@
 - 🛠 Python, HTML5, CSS3, Git, GitHub
 - 💬 Ask me about anything that you want to learn
 
-- ✨ You can reach me via :  <a href="linkedin.com/in/mehmet-tas-56a446230" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="Linkedin" height="20"/></a>
+- ✨ You can reach me via :  <a href="linkedin.com/in/mehmet-tas-56a446230" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="Linkedin" height="50"/></a>
 - 📫and also you can send me an e-mail: tas349873@gmail.com
 
 
