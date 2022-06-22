@@ -1,5 +1,7 @@
 ## Hello there 👋  My name is Mehmet...
+<!-- <hr> -->
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="425" height="275" />
+<!-- <hr> -->
 
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmet-tas-56a446230?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BgTYbJ2NDRzKs9CXRwabFrQ%3D%3D/) 
