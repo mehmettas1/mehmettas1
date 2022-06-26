@@ -1,6 +1,5 @@
-## Hello there 👋  My name is Mehmet...
-
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450 " height="275"  />
+ Hello there 👋  My name is Mehmet...
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500 " height="320"  />
 
 
 
@@ -15,6 +14,7 @@
 
 <!-- - ✨ You can reach me via :  <a href="linkedin.com/in/mehmet-tas-56a446230" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="Linkedin" height="30"/></a> -->
 - 📫and also you can send me an e-mail: tas349873@gmail.com
+
 
 
 
