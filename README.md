@@ -16,10 +16,7 @@
 - 📫and also you can send me an e-mail: tas349873@gmail.com
 
                                                                                                
-## :star2: My Projects: 
-## With React
 
-## Without React
 
 
   💻 Tech Stack
@@ -40,6 +37,13 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) 
+
+
+
+## :star2: My Projects: 
+## With React
+
+## Without React
 
 
 
