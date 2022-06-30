@@ -38,12 +38,7 @@
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) 
 
 
-## 📈 Statistics
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mehmettas1&show_icons=true&locale=en" alt="My GitHub Stats" width="49%"/>&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mehmettas1&theme=chartreuse-light&show_icons=true" alt="my commit status" width="49%" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mehmettas1&show_icons=true&locale=en&layout=compact" alt="languages" width="50%" >
-</p>
+
 
 ## :fire: My Stats :
                                                                         
