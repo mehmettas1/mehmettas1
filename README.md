@@ -1,5 +1,5 @@
  Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" height="25"></a>   My name is Mehmet
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500 " height="320"  />
+
 
 
 
@@ -42,4 +42,5 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=mehmettas1&show_icons=true&locale=en" alt="My GitHub Stats" width="49%"/>&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehmettas1&theme=chartreuse-light&show_icons=true" alt="my commit status" width="49%" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mehmettas1&show_icons=true&locale=en&layout=compact" alt="languages" width="50%" > </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mehmettas1&show_icons=true&locale=en&layout=compact" alt="languages" width="50%" >
+</p>
