@@ -42,9 +42,9 @@
 
 ## :star2: My Projects: 
 ## With React
-
+- <a href="https://react-weather-meta.netlify.app" target="_blank" >Weather-App</a>
 ## Without React
-- <a href="https://mehmettas1.github.io/Weather-App-project/" target="_blank" >Weather-App</a>
+
 
 
 
