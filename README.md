@@ -46,7 +46,7 @@
 - <a href="https://mehmettas1.github.io/react-language-card" target="_blank" >language-card</a>
 - <a href="https://mehmettas1.github.io/react-firstt-project/" target="_blank" > Tour Places</a>
 - <a href="" target="_blank" ></a>
-(https://mehmettas1.github.io/react-language-card/
+
 ## Without React
 - <a href="" target="_blank" ></a>
 - <a href="" target="_blank" ></a>
