@@ -45,7 +45,7 @@
 - <a href="https://react-weather-meta.netlify.app" target="_blank" >Weather-App</a>
 - <a href="https://mehmettas1.github.io/react-language-card" target="_blank" >language-card</a>
 - <a href="https://mehmettas1.github.io/react-firstt-project/" target="_blank" > Tour Places</a>
-- <a href="rreviews-react-project.netlify.app" target="_blank" >Reviews-Boilerolate-React-Project</a>
+- <a href="https://reviews-boilerolate-react-project.vercel.app/" target="_blank" >Reviews-Boilerolate-React-Project</a>
 
 ## Without React
 - <a href="https://mehmettas1.github.io/parallax-websitee/" target="_blank" >Parallax-Website</a>
