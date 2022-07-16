@@ -51,7 +51,7 @@
 - <a href="https://reviews-boilerolate-react-project.vercel.app/" target="_blank" >Reviews-Boilerolate-React-Project</a>
 - <a href="https://tabs-project-react-one.vercel.app/" target="_blank" >Tabs-React-Project</a>
 - <a href="https://react-recipe-appp.vercel.app/" target="_blank" >Recipe App</a>
-- <a href="random-user-app2-e3h59bob2-mehmettas1.vercel.app" target="_blank" >Random User2</a>
+- <a href="https://random-user-app2-two.vercel.app/" target="_blank" >Random User2</a>
 - <a href="" target="_blank" ></a>
 
 ## Without React
