@@ -65,7 +65,6 @@
 - <a href="https://mehmettas1.github.io/flagg-App-js/">Flagg-App</a>
 - <a href="https://mehmettas1.github.io/Web-Bootstrap-Project">Web-Bootstrap-Project</a>
 - <a href="https://mehmettas1.github.io/Boostrap-mini-project/">Boostrap-mini-project</a>
-
 - <a href="https://mehmettas1.github.io/Random-User-Generator/">Random-user-Generator</a>
 - <a href="https://mehmettas1.github.io/Digital-Clock/">Digital-Clock</a>
 - <a href="https://mehmettas1.github.io/SASS-WEBSITE/">SASS-WEB-SITE</a>
