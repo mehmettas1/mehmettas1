@@ -43,7 +43,7 @@
 ## :star2: My Projects: 
 ## With React
 
-
+- <a href="https://sage-bunny-77d4d7.netlify.app/" target="_blank" >Movie App</a>
 - <a href="https://62cc5ae10f5bce42839eeaba--meta-add-tutorial.netlify.app/" target="_blank" >Axios-Api-React-App</a>
 - <a href="https://axios-router-project.vercel.app/" target="_blank" >Axios-Router-React</a>
 - <a href="https://mehmettas1.github.io/react-language-card" target="_blank" >language-card</a>
@@ -53,8 +53,7 @@
 - <a href="https://react-recipe-appp.vercel.app/" target="_blank" >Recipe App</a>
 - <a href="https://random-user-app2-two.vercel.app/" target="_blank" >Random User2</a>
 - <a href="" target="_blank" ></a>
-- <a href="" target="_blank" ></a>
-- <a href="" target="_blank" ></a>
+
 
 
 ## Without React
@@ -69,7 +68,7 @@
 - <a href="https://mehmettas1.github.io/Random-User-Generator/">Random-user-Generator</a>
 - <a href="https://mehmettas1.github.io/Digital-Clock/">Digital-Clock</a>
 - <a href="https://mehmettas1.github.io/SASS-WEBSITE/">SASS-WEB-SITE</a>
-- <a href="" target="_blank" ></a>
+
 
 
 
