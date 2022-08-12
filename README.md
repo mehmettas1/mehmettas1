@@ -55,7 +55,7 @@
 - <a href="https://react-recipe-appp.vercel.app/" target="_blank" >Recipe App</a>
 - <a href="https://random-user-app2-two.vercel.app/" target="_blank" >Random User2</a>
 - <a href="https://62f520cb587a2e00086febd0--comforting-pasca-978f05.netlify.app/" target="_blank" >Shopping Card</a>
-- <a href="https://62f63e4b502fd6005f461aa8--bejewelled-dodol-193457.netlify.app/" target="_blank" >weather App</a>
+- <a href="https://62f63e4b502fd6005f461aa8--bejewelled-dodol-193457.netlify.app/" target="_blank" >Weather App</a>
 - <a href="" target="_blank" ></a>
 - <a href="" target="_blank" ></a>
 
