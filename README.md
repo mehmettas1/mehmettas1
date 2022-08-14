@@ -75,8 +75,8 @@
 - <a href="https://mehmettas1.github.io/Digital-Clock/">Digital-Clock</a>
 - <a href="https://mehmettas1.github.io/SASS-WEBSITE/">SASS-WEB-SITE</a>
 - <a href="https://mehmettas1.github.io/JavaScript-Kredi-hesaplama/" target="_blank" >Kredi Hesaplama Aracı</a>
-https://mehmettas1.github.io/Checkout-page-js/
-- <a href="" target="_blank" ></a>
+
+- <a href="https://mehmettas1.github.io/Checkout-page-js/" target="_blank" ></a>
 
 ## :fire: My Stats :
                                                                         
