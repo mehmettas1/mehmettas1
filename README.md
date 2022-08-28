@@ -81,7 +81,7 @@
 - <a href="https://mehmettas1.github.io/Find-the-Number-Game/" target="_blank" >Find-the-Number-Game</a>
 - <a href="https://mehmettas1.github.io/LOGO/" target="_blank" >LOGO</a>
 - <a href="https://mehmettas1.github.io/Navbar-2/" target="_blank" >NAVBAR</a>
-- <a href="https://mehmettas1.github.io/interactive-rating-componet-main/" target="_blank" ></a>
+- <a href="https://mehmettas1.github.io/interactive-rating-componet-main/" target="_blank" >Component Main</a>
 
 
 ## :fire: My Stats :
