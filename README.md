@@ -61,7 +61,7 @@
 
 ## With Django
 - <a href="https://todo-app-djgango.herokuapp.com/" target="_blank" >Todo App</a>
-- <a href="" target="_blank" ></a>
+
 
 
 ## Without React
@@ -85,7 +85,7 @@
 - <a href="https://mehmettas1.github.io/Navbar-2/" target="_blank" >NAVBAR</a>
 - <a href="https://mehmettas1.github.io/interactive-rating-componet-main/" target="_blank" >Component Main</a>
 - <a href="https://mehmettas1.github.io/flex-grid-project" target="_blank" >Flex-Grid</a>
-
+- <a href="https://mehmettas1.github.io/BG-Color-Project/" target="_blank" >BG COlor project</a>
 ## :fire: My Stats :
                                                                         
 <p align="left">
