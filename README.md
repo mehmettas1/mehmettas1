@@ -91,7 +91,7 @@
 - <a href="https://6330bd20f8fb5652e41c6891--teal-nougat-3188d3.netlify.app/" target="_blank" >Google landing Page</a>
 - <a href="https://mehmettas1.github.io/Personal-Web-site/" target="_blank" >Personal Web Site</a>
 - <a href="https://mehmettas1.github.io/Media-Query/" target="_blank" >Media Querry</a>
-- <a href="https://github.com/mehmettas1/mehmettas1.github.io" target="_blank" >Mehmet TAS</a>
+- <a href="https://mehmettas1.github.io/" target="_blank" >Mehmet TAS</a>
 ## :fire: My Stats :
                                                                         
 <p align="left">
