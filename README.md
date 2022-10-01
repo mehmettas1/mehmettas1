@@ -69,14 +69,14 @@
 - <a href="https://mehmettas1.github.io/Clarusway-Web-Desing/">Clarusway-Web-Desing</a> 
 - <a href="https://mehmettas1.github.io/parallax-websitee/" target="_blank" >Parallax-Website</a>
 - <a href="https://mehmettas1.github.io/Js-Iphone-Calculater/" target="_blank" >Iphone-Calculator</a>
-- <a href="https://mehmettas1.github.io/Checkout-page-js/" target="_blank" >Checkout-page</a>
+- <a href="https://mehmettas1.github.io/Checkout-page-js/" target="_blank" >Checkout-Page</a>
 - <a href="https://mehmettas1.github.io/New-to-do-list/" target="_blank" >To Do List</a>
 - <a href="https://mehmettas1.github.io/StopWatch/">StopWacth</a> 
 - <a href="https://mehmettas1.github.io/flagg-App-js/">Flagg-App</a>
 - <a href="https://mehmettas1.github.io/Web-Bootstrap-Project">Web-Bootstrap-Project</a>
-- <a href="https://mehmettas1.github.io/Boostrap-mini-project/">Boostrap-mini-project</a>
-- <a href="https://mehmettas1.github.io/Random-User-Generator/">Random-user-Generator</a>
-- <a href="https://mehmettas1.github.io/survey-form/" target="_blank" >Netflıx survey form</a>
+- <a href="https://mehmettas1.github.io/Boostrap-mini-project/">Boostrap-Mini-Project</a>
+- <a href="https://mehmettas1.github.io/Random-User-Generator/">Random-User-Generator</a>
+- <a href="https://mehmettas1.github.io/survey-form/" target="_blank" >Netflıx Survey Form</a>
 - <a href="https://mehmettas1.github.io/Digital-Clock/">Digital-Clock</a>
 - <a href="https://mehmettas1.github.io/SASS-WEBSITE/">SASS-WEB-SITE</a>
 - <a href="https://mehmettas1.github.io/JavaScript-Kredi-hesaplama/" target="_blank" >Kredi Hesaplama Aracı</a>
@@ -86,12 +86,12 @@
 - <a href="https://mehmettas1.github.io/Navbar-2/" target="_blank" >NAVBAR</a>
 - <a href="https://mehmettas1.github.io/interactive-rating-componet-main/" target="_blank" >Component Main</a>
 - <a href="https://mehmettas1.github.io/flex-grid-project" target="_blank" >Flex-Grid</a>
-- <a href="https://mehmettas1.github.io/BG-Color-Project/" target="_blank" >BG COlor project</a>
+- <a href="https://mehmettas1.github.io/BG-Color-Project/" target="_blank" >BG Color Project</a>
 - <a href="https://mehmettas1.github.io/Sass-scss-page/" target="_blank" >SASS-SCSS</a>
-- <a href="https://6330bd20f8fb5652e41c6891--teal-nougat-3188d3.netlify.app/" target="_blank" >Google landing Page</a>
+- <a href="https://6330bd20f8fb5652e41c6891--teal-nougat-3188d3.netlify.app/" target="_blank" >Google Landing Page</a>
 - <a href="https://mehmettas1.github.io/Personal-Web-site/" target="_blank" >Personal Web Site</a>
 - <a href="https://mehmettas1.github.io/Media-Query/" target="_blank" >Media Querry</a>
-- <a href="https://mehmettas1.github.io/" target="_blank" >Mehmet TAS</a>
+- <a href="https://mehmettas1.github.io/" target="_blank" >First Project</a>
 ## :fire: My Stats :
                                                                         
 <p align="left">
