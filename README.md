@@ -58,7 +58,6 @@
 - <a href="https://62f520cb587a2e00086febd0--comforting-pasca-978f05.netlify.app/" target="_blank" >Shopping Card</a>
 - <a href="https://62f6408dec36a200c2d28397--serene-churros-85e239.netlify.app/" target="_blank" >Task Tracker</a>
 - <a href="" target="_blank" ></a>
-
 ## With Django
 - <a href="https://todo-app-djgango.herokuapp.com/" target="_blank" >Todo App</a>
 
@@ -90,6 +89,9 @@
 - <a href="https://mehmettas1.github.io/Sass-scss-page/" target="_blank" >SASS-SCSS</a>
 - <a href="https://6330bd20f8fb5652e41c6891--teal-nougat-3188d3.netlify.app/" target="_blank" >Google landing Page</a>
 - <a href="https://mehmettas1.github.io/Personal-Web-site/" target="_blank" >Personal Web Site</a>
+- <a href="https://mehmettas1.github.io/Media-Query/" target="_blank" >Media Querry</a>
+- <a href="" target="_blank" ></a>
+- <a href="" target="_blank" ></a>
 ## :fire: My Stats :
                                                                         
 <p align="left">
