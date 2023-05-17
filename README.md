@@ -9,7 +9,7 @@
 
 ### What I'm using ? 🛠     
 
-- 🛠 Python, HTML5, CSS3, Git, GitHub Javascript ...
+- 🛠 Python, HTML5, CSS3, Git, GitHub, Javascript, React,Tailwind,Alpine js
 - 💬 Ask me about anything that you want to learn
 
 <!-- - ✨ You can reach me via :  <a href="linkedin.com/in/mehmet-tas-56a446230" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="Linkedin" height="30"/></a> -->
