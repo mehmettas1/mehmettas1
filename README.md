@@ -77,14 +77,11 @@
       src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"
       alt="JIRA"
       />
-
-      <img 
+ <img 
       src="https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white"
       alt="Django"
       />
-      <img 
-      src=""      alt=""
-      />
+   
 </div>
 </br>
 <!--<div  align="center"> <img src="https://raw.githubusercontent.com/scriptex/github-contributions-snake/snake/github-contribution-grid-snake.svg" /></div>-->
