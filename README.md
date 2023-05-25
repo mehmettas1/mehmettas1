@@ -77,10 +77,7 @@
       src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"
       alt="JIRA"
       />
-<img 
-      src="https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white"
-      alt="SASS"
-      />
+
       <img 
       src="https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white"
       alt="Django"
