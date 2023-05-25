@@ -1,24 +1,102 @@
- Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" height="25"></a>   My name is Mehmet
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="right" width="500"></br>
 
+## 👷🏻‍♀️👋🏻 Hi there, I'm Mehmet
 
+### What I'm using ? 🛠    
 
-
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmet-tas-56a446230?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BgTYbJ2NDRzKs9CXRwabFrQ%3D%3D/) 
-<a href="https://github.com/mehmettas1" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages"  height="28.5"/></a> <img src="https://komarev.com/ghpvc/?username=mehmettas1" alt="visitor counter" height="28.5"/>
-
-
-### What I'm using ? 🛠     
-
+<font color="pink">🎆 Exploring routes to new visions and be a part of the new visions. </font>
+</br>
+<font color="pink"> 🧐 A new age enthusiast. </font>
+</br>
 - 🛠 Python, HTML5, CSS3, Git, GitHub, Javascript, React,Tailwind,Alpine js
 - 💬 Ask me about anything that you want to learn
 
 <!-- - ✨ You can reach me via :  <a href="linkedin.com/in/mehmet-tas-56a446230" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="Linkedin" height="30"/></a> -->
 - 📫and also you can send me an e-mail: tas349873@gmail.com
 
-                                                                                               
+
+#### 📬 Connect with me:
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmet-tas-56a446230?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BgTYbJ2NDRzKs9CXRwabFrQ%3D%3D/) 
+<a href="https://github.com/mehmettas1" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages"  height="28.5"/></a> <img src="https://komarev.com/ghpvc/?username=mehmettas1" alt="visitor counter" height="28.5"/>
 
 
 
+</br>
+</br>
+</br>
+
+<h2 align="center">🚀Technical Skills</h2>
+<div align="center">
+<img
+        src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
+        alt="Reactjs"
+      />
+<img
+        src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"
+        alt="React Router"
+      />      
+<img
+        src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
+        alt="JavaScript"
+      />
+
+<img
+        src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
+        alt="HTML5"
+      />
+<img
+        src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
+        alt="CSS3"
+      />
+<img
+        src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"
+        alt="Bootstrap"
+      />
+<img
+        src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"
+        alt="Sass"
+      />
+</br>
+<img 
+     src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"
+     alt="VSCode"
+     />
+</br>
+<img
+        src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"
+        alt="Python"
+      />
+
+<br>
+</br>
+<img 
+      src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"
+      alt="GIT"
+      />
+<img 
+      src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"
+      alt="JIRA"
+      />
+<img 
+      src="https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white"
+      alt="SASS"
+      />
+      <img 
+      src="https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white"
+      alt="Django"
+      />
+      <img 
+      src=""      alt=""
+      />
+</div>
+</br>
+<!--<div  align="center"> <img src="https://raw.githubusercontent.com/scriptex/github-contributions-snake/snake/github-contribution-grid-snake.svg" /></div>-->
+<h2 align="center">My Projects</h2>
+
+                                                                                          
+
+
+<!-- 
   💻 Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
@@ -30,12 +108,12 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) 
 
 
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) 
+![SASS]() 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) -->
+
 
 
 
