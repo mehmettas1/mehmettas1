@@ -3,7 +3,7 @@
 
 
 ## 👷🏻‍♀️👋🏻 Hi there, I'm Mehmet
-![Mehmet TAS](https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=30&weight=700&lines=Call+me+Mehmet+TAS;Mehmettas)
+![Mehmet TAS](https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=30&weight=700&lines=Call+me+Mehmet+TAS;mehmettas1)
 ### What I'm using ? 🛠    
 
 <font color="pink">🎆 Exploring routes to new visions and be a part of the new visions. </font>
