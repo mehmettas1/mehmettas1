@@ -1,4 +1,6 @@
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="right" width="500"></br>
+
+<img src="https://raw.githubusercontent.com/NdekoCode/NdekoCode/main/assets/img/banner-fullstack.gif" align="right" width="50%">
+
 
 ## 👷🏻‍♀️👋🏻 Hi there, I'm Mehmet
 ![Mehmet TAS](https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=30&weight=700&lines=Call+me+Mehmet+TAS;MehmetTAS)
