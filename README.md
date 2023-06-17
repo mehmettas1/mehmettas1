@@ -113,13 +113,13 @@
 
 
 
-## :star2: My Projects: 
+<!-- ## :star2: My Projects: 
 ## With React
 
-- <a href="https://mehmettas-myportfolio.netlify.app/" target="_blank" >My Portfolio</a>
+- <a href="" target="_blank" >My Portfolio</a>
 - <a href="https://cozy-llama-a732f4.netlify.app/" target="_blank" >Foot Ordering</a>
-- <a href="https://meta-react-movie-app.netlify.app" target="_blank" >Movie App</a>
-- <a href="https://fanciful-pasca-a4af4f.netlify.app/" target="_blank" >React Fire Contact</a>
+- <a href="" target="_blank" >Movie App</a>
+- <a href="" target="_blank" >React Fire Contact</a>
 - <a href="https://react-recipe-appp.vercel.app/" target="_blank" >Recipe App</a>
 - <a href="https://relaxed-quokka-791cfe.netlify.app/" target="_blank" >React Website Width Router</a>
 - <a href="https://62f63e4b502fd6005f461aa8--bejewelled-dodol-193457.netlify.app/" target="_blank" >Weather App</a>
@@ -168,6 +168,33 @@
 - <a href="https://mehmettas1.github.io/Personal-Web-site/" target="_blank" >Personal Web Site</a>
 - <a href="https://mehmettas1.github.io/Media-Query/" target="_blank" >Media Querry</a>
 - <a href="https://mehmettas1.github.io/" target="_blank" >First Project</a>
+ -->
+
+## My projects
+  Project Live Link       |Libraries and Technologies I use     | Project Repo Link   
+:-------------------------|-------------------------|-------------------------
+[Live Link](https://mehmettas-myportfolio.netlify.app/)| React | [my portfolio](https://github.com/Selman-S/Vole)
+[Live Link](https://cozy-llama-a732f4.netlify.app/)| Redux Toolkit,  Tailwind, React |[Food order](https://github.com/mehmettas1/order-eats-react-project)
+[Live Link](https://meta-react-movie-app.netlify.app/)| React, React Router Dom, SCSS, react icons |[CrewIn Blog App](https://github.com/Selman-S/Crewin-Blog)
+[Live Link](https://fanciful-pasca-a4af4f.netlify.app/)| React, firebase database, firebase (  collection, getDocs, addDoc,  deleteDoc, doc, updateDoc), Bootstrap, React-icons |[Firebase Contact App](https://github.com/mehmettas1/React-Firecontact)
+|[Live Link](https://62f63e4b502fd6005f461aa8--bejewelled-dodol-193457.netlify.app/)| DOM, Async Await, Axios, Events| [Weather App Master](https://github.com/mehmettas1/Weather-App)
+|[Live Link](https://mehmettas1.github.io/Web-Bootstrap-Project/) |  HTML, CSS Frameworks, Bootstrap-5 |[Bootcamp Courses Project with Bootstrap](https://github.com/mehmettas1/Web-Bootstrap-Project)
+|[Live Link](https://62f6408dec36a200c2d28397--serene-churros-85e239.netlify.app/) | React, useState, useEffect, localestorrage | [Task Tracker React Project](https://github.com/mehmettas1/Task-Tracker)
+|[Live Link](https://mehmettas1.github.io/react-language-card/)|React, React DOM, Components, Props|[Language Cards React](https://github.com/mehmettas1/react-language-card)
+|[Live Link](https://selman-followers-github-react.netlify.app/)| React, useState, useEffect, axios, async await, Github User API, react-router-dom, react-bootsrap, styled-components|[My Followers React](https://github.com/Selman-S/My-Followers-React)
+|[Live Link](https://mehmettas1.github.io/react-firstt-project/) | React, React DOM, Components, Props |[Tour Project(This is my first react Project :) ](https://github.com/mehmettas1/react-firstt-project)
+|[Live Link](https://mehmettas1.github.io/Random-User-Generator/)| useState, useEffect, axios, async await, REST API|[Random-User-React](https://github.com/mehmettas1/Random-User-Generator)
+
+|[Live Link](https://mehmettas1.github.io/Checkout-page-js/)| DOM, Iterator, Callback functions, String-array functions, Events|[Ecommerce-product-page-Checkout](https://github.com/mehmettas1/Checkout-page-js)
+|[Live Link]( https://mehmettas1.github.io/Find-the-Number-Game/)| HTML, CSS Frameworks, JS Dom Manipulation, Event Listeners |[Guess Number Game](https://github.com/mehmettas1/Find-the-Number-Game)
+|[Live Link](https://mehmettas1.github.io/Js-Iphone-Calculater/)| HTML, CSS Frameworks, JS Dom Manipulation, Event Listeners | [calculator App](https://github.com/mehmettas1/Js-Iphone-Calculater)
+|[Live Link](https://mehmettas1.github.io/flagg-App-js/)|  DOM, Async, Await and Fetch.Bootstrap | [Search Flags with API](https://github.com/mehmettas1/flagg-App-js)
+|[Live Link](https://6330b37dfe0c275313304e3e--venerable-sunshine-4ecb98.netlify.app/#)|HTML, CSS Frameworks|[Profile Card Component](https://github.com/mehmettas1/Profile-card-componet)
+|[Live Link](https://mehmettas1.github.io/JavaScript-Kredi-hesaplama/)|JS DOM, Bootstrap|[JS Kredi Hesapla](https://github.com/mehmettas1/JavaScript-Kredi-hesaplama)
+|[Live Link](https://mehmettas1.github.io/Media-Query/)|CSS Media queries|[Media Query Study](https://github.com/mehmettas1/Media-Query)
+
+
+
 ## :fire: My Stats :
                                                                         
 <p align="left">
