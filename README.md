@@ -184,7 +184,6 @@
 |[Live Link](https://selman-followers-github-react.netlify.app/)| React, useState, useEffect, axios, async await, Github User API, react-router-dom, react-bootsrap, styled-components|[My Followers React](https://github.com/Selman-S/My-Followers-React)
 |[Live Link](https://mehmettas1.github.io/react-firstt-project/) | React, React DOM, Components, Props |[Tour Project(This is my first react Project :) ](https://github.com/mehmettas1/react-firstt-project)
 |[Live Link](https://mehmettas1.github.io/Random-User-Generator/)| useState, useEffect, axios, async await, REST API|[Random-User-React](https://github.com/mehmettas1/Random-User-Generator)
-
 |[Live Link](https://mehmettas1.github.io/Checkout-page-js/)| DOM, Iterator, Callback functions, String-array functions, Events|[Ecommerce-product-page-Checkout](https://github.com/mehmettas1/Checkout-page-js)
 |[Live Link]( https://mehmettas1.github.io/Find-the-Number-Game/)| HTML, CSS Frameworks, JS Dom Manipulation, Event Listeners |[Guess Number Game](https://github.com/mehmettas1/Find-the-Number-Game)
 |[Live Link](https://mehmettas1.github.io/Js-Iphone-Calculater/)| HTML, CSS Frameworks, JS Dom Manipulation, Event Listeners | [calculator App](https://github.com/mehmettas1/Js-Iphone-Calculater)
