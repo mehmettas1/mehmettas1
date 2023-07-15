@@ -193,7 +193,7 @@
 |[Live Link](https://6330b37dfe0c275313304e3e--venerable-sunshine-4ecb98.netlify.app/#)|HTML, CSS Frameworks|[Profile Card Component](https://github.com/mehmettas1/Profile-card-componet)
 |[Live Link](https://mehmettas1.github.io/JavaScript-Kredi-hesaplama/)|JS DOM, Bootstrap|[JS Kredi Hesapla](https://github.com/mehmettas1/JavaScript-Kredi-hesaplama)
 |[Live Link](https://mehmettas1.github.io/Media-Query/)|CSS Media queries|[Media Query Study](https://github.com/mehmettas1/Media-Query)
-|[Live Link](https://github.com/mehmettas1/technova-home-page)|[Home-page]|[Media Query Study](https://friendly-basbousa-5799e4.netlify.app/)
+|[Live Link](https://github.com/mehmettas1/technova-home-page)||[Home-page](https://friendly-basbousa-5799e4.netlify.app/)
 
 
 
