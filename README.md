@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/NdekoCode/NdekoCode/main/assets/img/banner-fullstack.gif" align="right" width="50%">
 
 
-## 👷🏻‍♀️👋🏻 Hi there, 
+## 👷🏻‍♀️👋🏻 Hi there, ...
 ![Mehmet TAS](https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=30&weight=700&lines=Hi+I'm+Mehmet;call+me+mehmettas1)
 ### What I'm using ? 🛠    
 
